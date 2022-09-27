@@ -1,2 +1,0 @@
-# cousera-test
-Cousera test
